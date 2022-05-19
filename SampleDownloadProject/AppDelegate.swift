@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  SampleDownloadProject
 //
-//  Created by Alex Weimers on 2022-05-18.
 //
 
 import UIKit
